@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dmikowwcoi0xd"
+path="res://.godot/imported/Beach House - Space Song (Lyrics).mp3-9088d6fdec5ccbc92f767f396f765440.mp3str"
+
+[deps]
+
+source_file="res://MusicBackground/Playlists/Beach House - Space Song (Lyrics).mp3"
+dest_files=["res://.godot/imported/Beach House - Space Song (Lyrics).mp3-9088d6fdec5ccbc92f767f396f765440.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4
